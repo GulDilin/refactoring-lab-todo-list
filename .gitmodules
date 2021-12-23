@@ -1,0 +1,6 @@
+[submodule "refactoring-lab-todo-list-api"]
+	path = refactoring-lab-todo-list-api
+	url = git@github.com:GulDilin/refactoring-lab-todo-list-api.git
+[submodule "refactoring-lab-todo-list-cli-client"]
+	path = refactoring-lab-todo-list-cli-client
+	url = git@github.com:GulDilin/refactoring-lab-todo-list-cli-client.git
